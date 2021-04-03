@@ -1,5 +1,5 @@
-# OOP-Car
-A project to practice OOP principles in Java
+# OOP_Car
+A project to practice OOP principles in Java by simulating a car.
 
 Instructions:
 
